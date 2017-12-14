@@ -1,0 +1,394 @@
+,index,Unnamed: 0,EntryName,Uniprot,seqLen,Family,Class,snp_count,snp_cv,snp_rv,RelativeSNP,RelativeSNP_cv,RelativeSNP_rv
+0,0,0,5ht1a_human,P08908,422,5-Hydroxytryptamine receptors,Class A (Rhodopsin),114,4.0,110.0,0.27,0.01,0.26
+1,1,1,5ht1b_human,P28222,390,5-Hydroxytryptamine receptors,Class A (Rhodopsin),89,1.0,88.0,0.23,0.0,0.23
+2,2,2,5ht1d_human,P28221,377,5-Hydroxytryptamine receptors,Class A (Rhodopsin),112,3.0,110.0,0.3,0.01,0.29
+3,3,3,5ht1e_human,P28566,365,5-Hydroxytryptamine receptors,Class A (Rhodopsin),80,1.0,80.0,0.22,0.0,0.22
+4,4,4,5ht1f_human,P30939,366,5-Hydroxytryptamine receptors,Class A (Rhodopsin),79,1.0,78.0,0.22,0.0,0.21
+5,5,5,5ht2a_human,P28223,471,5-Hydroxytryptamine receptors,Class A (Rhodopsin),100,4.0,98.0,0.21,0.01,0.21
+6,6,6,5ht2b_human,P41595,481,5-Hydroxytryptamine receptors,Class A (Rhodopsin),144,7.0,137.0,0.3,0.01,0.28
+7,7,7,5ht2c_human,P28335,458,5-Hydroxytryptamine receptors,Class A (Rhodopsin),74,1.0,73.0,0.16,0.0,0.16
+8,8,8,5ht4r_human,Q13639,388,5-Hydroxytryptamine receptors,Class A (Rhodopsin),96,0.0,96.0,0.25,0.0,0.25
+9,9,9,5ht5a_human,P47898,357,5-Hydroxytryptamine receptors,Class A (Rhodopsin),92,1.0,91.0,0.26,0.0,0.25
+10,10,10,5ht6r_human,P50406,440,5-Hydroxytryptamine receptors,Class A (Rhodopsin),143,5.0,140.0,0.33,0.01,0.32
+11,11,11,5ht7r_human,P34969,479,5-Hydroxytryptamine receptors,Class A (Rhodopsin),121,2.0,119.0,0.25,0.0,0.25
+12,12,12,aa1r_human,P30542,326,Adenosine receptors,Class A (Rhodopsin),69,1.0,68.0,0.21,0.0,0.21
+13,13,13,aa2ar_human,P29274,412,Adenosine receptors,Class A (Rhodopsin),113,3.0,110.0,0.27,0.01,0.27
+14,14,14,aa2br_human,P29275,332,Adenosine receptors,Class A (Rhodopsin),101,1.0,100.0,0.3,0.0,0.3
+15,15,15,aa3r_human,P0DMS8,318,Adenosine receptors,Class A (Rhodopsin),99,3.0,96.0,0.31,0.01,0.3
+16,16,16,ackr1_human,Q16570,336,Chemokine receptors,Class A (Rhodopsin),105,6.0,100.0,0.31,0.02,0.3
+17,17,17,ackr2_human,O00590,384,Chemokine receptors,Class A (Rhodopsin),124,5.0,120.0,0.32,0.01,0.31
+18,18,18,ackr3_human,P25106,362,Chemokine receptors,Class A (Rhodopsin),96,3.0,93.0,0.27,0.01,0.26
+19,19,19,ackr4_human,Q9NPB9,350,Chemokine receptors,Class A (Rhodopsin),16,1.0,16.0,0.05,0.0,0.05
+20,20,20,acm1_human,P11229,460,Acetylcholine receptors (muscarinic),Class A (Rhodopsin),79,0.0,79.0,0.17,0.0,0.17
+21,21,21,acm2_human,P08172,466,Acetylcholine receptors (muscarinic),Class A (Rhodopsin),83,4.0,79.0,0.18,0.01,0.17
+22,22,22,acm3_human,P20309,590,Acetylcholine receptors (muscarinic),Class A (Rhodopsin),128,2.0,127.0,0.22,0.0,0.22
+23,23,23,acm4_human,P08173,479,Acetylcholine receptors (muscarinic),Class A (Rhodopsin),94,0.0,94.0,0.2,0.0,0.2
+24,24,24,acm5_human,P08912,532,Acetylcholine receptors (muscarinic),Class A (Rhodopsin),133,2.0,131.0,0.25,0.0,0.25
+25,25,25,acthr_human,Q01718,297,Melanocortin receptors,Class A (Rhodopsin),88,2.0,86.0,0.3,0.01,0.29
+26,26,26,ada1a_human,P35348,466,Adrenoceptors,Class A (Rhodopsin),154,6.0,149.0,0.33,0.01,0.32
+27,27,27,ada1b_human,P35368,520,Adrenoceptors,Class A (Rhodopsin),95,0.0,95.0,0.18,0.0,0.18
+28,28,28,ada1d_human,P25100,572,Adrenoceptors,Class A (Rhodopsin),140,5.0,135.0,0.24,0.01,0.24
+29,29,29,ada2a_human,P08913,450,Adrenoceptors,Class A (Rhodopsin),9,1.0,8.0,0.02,0.0,0.02
+30,30,30,ada2b_human,P18089,447,Adrenoceptors,Class A (Rhodopsin),123,2.0,122.0,0.28,0.0,0.27
+31,31,31,ada2c_human,P18825,462,Adrenoceptors,Class A (Rhodopsin),67,4.0,63.0,0.15,0.01,0.14
+32,32,32,adrb1_human,P08588,477,Adrenoceptors,Class A (Rhodopsin),96,3.0,93.0,0.2,0.01,0.19
+33,33,33,adrb2_human,P07550,413,Adrenoceptors,Class A (Rhodopsin),99,4.0,95.0,0.24,0.01,0.23
+34,34,34,adrb3_human,P13945,408,Adrenoceptors,Class A (Rhodopsin),71,4.0,67.0,0.17,0.01,0.16
+35,35,35,agra1_human,Q86SQ6,560,A,Class B2 (Adhesion),146,4.0,142.0,0.26,0.01,0.25
+36,36,36,agra2_human,Q96PE1,1338,A,Class B2 (Adhesion),310,16.0,294.0,0.23,0.01,0.22
+37,37,37,agra3_human,Q8IWK6,1321,A,Class B2 (Adhesion),361,12.0,349.0,0.27,0.01,0.26
+38,38,38,agrb2_human,O60241,1585,BAI,Class B2 (Adhesion),308,9.0,300.0,0.19,0.01,0.19
+39,39,39,agrb3_human,O60242,1522,BAI,Class B2 (Adhesion),370,3.0,367.0,0.24,0.0,0.24
+40,40,40,agrd1_human,Q6QNK2,874,D,Class B2 (Adhesion),275,8.0,269.0,0.31,0.01,0.31
+41,41,41,agrd2_human,Q7Z7M1,963,D,Class B2 (Adhesion),158,36.0,127.0,0.16,0.04,0.13
+42,42,42,agre1_human,Q14246,886,EGF,Class B2 (Adhesion),279,21.0,261.0,0.31,0.02,0.29
+43,43,43,agre2_human,Q9UHX3,823,EGF,Class B2 (Adhesion),200,14.0,187.0,0.24,0.02,0.23
+44,44,44,agre3_human,Q9BY15,652,EGF,Class B2 (Adhesion),184,12.0,173.0,0.28,0.02,0.27
+45,45,45,agrf1_human,Q5T601,910,F,Class B2 (Adhesion),268,11.0,257.0,0.29,0.01,0.28
+46,46,46,agrf2_human,Q8IZF7,708,F,Class B2 (Adhesion),220,17.0,205.0,0.31,0.02,0.29
+47,47,47,agrf3_human,Q8IZF5,1079,F,Class B2 (Adhesion),263,23.0,242.0,0.24,0.02,0.22
+48,48,48,agrf4_human,Q8IZF3,695,F,Class B2 (Adhesion),228,16.0,215.0,0.33,0.02,0.31
+49,49,49,agrf5_human,Q8IZF2,1346,F,Class B2 (Adhesion),333,8.0,326.0,0.25,0.01,0.24
+50,50,50,agrg1_human,Q9Y653,693,G,Class B2 (Adhesion),211,5.0,208.0,0.3,0.01,0.3
+51,51,51,agrg2_human,Q8IZP9,1017,G,Class B2 (Adhesion),150,5.0,146.0,0.15,0.0,0.14
+52,52,52,agrg3_human,Q86Y34,549,G,Class B2 (Adhesion),177,6.0,172.0,0.32,0.01,0.31
+53,53,53,agrg4_human,Q8IZF6,3080,G,Class B2 (Adhesion),649,22.0,631.0,0.21,0.01,0.2
+54,54,54,agrg5_human,Q8IZF4,528,G,Class B2 (Adhesion),159,4.0,156.0,0.3,0.01,0.3
+55,55,55,agrg7_human,Q96K78,797,G,Class B2 (Adhesion),240,7.0,234.0,0.3,0.01,0.29
+56,56,56,agrl1_human,O94910,1474,Latrophilin,Class B2 (Adhesion),328,3.0,325.0,0.22,0.0,0.22
+57,57,57,agrl2_human,O95490,1459,Latrophilin,Class B2 (Adhesion),369,11.0,359.0,0.25,0.01,0.25
+58,58,58,agrl3_human,Q9HAR2,1447,Latrophilin,Class B2 (Adhesion),141,5.0,138.0,0.1,0.0,0.1
+59,59,59,agrl4_human,Q9HBW9,690,G,Class B2 (Adhesion),199,6.0,193.0,0.29,0.01,0.28
+60,60,60,agtr1_human,P30556,359,Angiotensin receptors,Class A (Rhodopsin),98,1.0,97.0,0.27,0.0,0.27
+61,61,61,agtr2_human,P50052,363,Angiotensin receptors,Class A (Rhodopsin),70,3.0,67.0,0.19,0.01,0.18
+62,62,62,apj_human,P35414,380,Apelin receptors,Class A (Rhodopsin),131,2.0,129.0,0.34,0.01,0.34
+63,63,63,bai1_human,O14514,1584,BAI,Class B2 (Adhesion),248,7.0,243.0,0.16,0.0,0.15
+64,64,64,bkrb1_human,P46663,353,Bradykinin receptors,Class A (Rhodopsin),114,3.0,112.0,0.32,0.01,0.32
+65,65,65,bkrb2_human,P30411,391,Bradykinin receptors,Class A (Rhodopsin),117,3.0,114.0,0.3,0.01,0.29
+66,66,66,brs3_human,P32247,399,Bombesin receptors,Class A (Rhodopsin),61,0.0,61.0,0.15,0.0,0.15
+67,67,67,c3ar_human,Q16581,482,Complement peptide receptors,Class A (Rhodopsin),152,3.0,149.0,0.32,0.01,0.31
+68,68,68,c5ar1_human,P21730,350,Complement peptide receptors,Class A (Rhodopsin),132,2.0,130.0,0.38,0.01,0.37
+69,69,69,c5ar2_human,Q9P296,337,Complement peptide receptors,Class A (Rhodopsin),117,3.0,116.0,0.35,0.01,0.34
+70,70,70,calcr_human,P30988,508,Calcitonin receptors,Class B1 (Secretin),146,3.0,145.0,0.29,0.01,0.29
+71,71,71,calrl_human,Q16602,461,Calcitonin receptors,Class B1 (Secretin),79,4.0,75.0,0.17,0.01,0.16
+72,72,72,casr_human,P41180,1078,Calcium-sensing receptors,Class C (Glutamate),230,6.0,224.0,0.21,0.01,0.21
+73,73,73,cckar_human,P32238,428,Cholecystokinin receptors,Class A (Rhodopsin),146,4.0,142.0,0.34,0.01,0.33
+74,74,74,ccr10_human,P46092,362,Chemokine receptors,Class A (Rhodopsin),61,2.0,60.0,0.17,0.01,0.17
+75,75,75,ccr1_human,P32246,355,Chemokine receptors,Class A (Rhodopsin),75,3.0,73.0,0.21,0.01,0.21
+76,76,76,ccr2_human,P41597,374,Chemokine receptors,Class A (Rhodopsin),101,2.0,99.0,0.27,0.01,0.26
+77,77,77,ccr3_human,P51677,355,Chemokine receptors,Class A (Rhodopsin),114,3.0,112.0,0.32,0.01,0.32
+78,78,78,ccr4_human,P51679,360,Chemokine receptors,Class A (Rhodopsin),85,0.0,85.0,0.24,0.0,0.24
+79,79,79,ccr5_human,P51681,352,Chemokine receptors,Class A (Rhodopsin),120,4.0,117.0,0.34,0.01,0.33
+80,80,80,ccr6_human,P51684,374,Chemokine receptors,Class A (Rhodopsin),70,1.0,69.0,0.19,0.0,0.18
+81,81,81,ccr7_human,P32248,378,Chemokine receptors,Class A (Rhodopsin),85,0.0,85.0,0.22,0.0,0.22
+82,82,82,ccr8_human,P51685,355,Chemokine receptors,Class A (Rhodopsin),75,1.0,74.0,0.21,0.0,0.21
+83,83,83,ccr9_human,P51686,369,Chemokine receptors,Class A (Rhodopsin),83,3.0,80.0,0.22,0.01,0.22
+84,84,84,ccrl2_human,O00421,344,Chemokine receptors,Class A (Rhodopsin),117,5.0,112.0,0.34,0.01,0.33
+85,85,85,cd97_human,P48960,835,EGF,Class B2 (Adhesion),239,7.0,232.0,0.29,0.01,0.28
+86,86,86,celr1_human,Q9NYQ6,3014,CELSR,Class B2 (Adhesion),973,42.0,935.0,0.32,0.01,0.31
+87,87,87,celr2_human,Q9HCU4,2923,CELSR,Class B2 (Adhesion),841,26.0,821.0,0.29,0.01,0.28
+88,88,88,celr3_human,Q9NYQ7,3312,CELSR,Class B2 (Adhesion),825,18.0,810.0,0.25,0.01,0.24
+89,89,89,cltr1_human,Q9Y271,337,Leukotriene receptors,Class A (Rhodopsin),77,0.0,77.0,0.23,0.0,0.23
+90,90,90,cltr2_human,Q9NS75,346,Leukotriene receptors,Class A (Rhodopsin),100,9.0,92.0,0.29,0.03,0.27
+91,91,91,cml1_human,Q99788,373,Chemerin receptor,Class A (Rhodopsin),109,5.0,105.0,0.29,0.01,0.28
+92,92,92,cnr1_human,P21554,472,Cannabinoid receptors,Class A (Rhodopsin),91,0.0,91.0,0.19,0.0,0.19
+93,93,93,cnr2_human,P34972,360,Cannabinoid receptors,Class A (Rhodopsin),98,4.0,94.0,0.27,0.01,0.26
+94,94,94,crfr1_human,P34998,444,Corticotropin-releasing factor receptors,Class B1 (Secretin),91,1.0,90.0,0.2,0.0,0.2
+95,95,95,crfr2_human,Q13324,411,Corticotropin-releasing factor receptors,Class B1 (Secretin),122,6.0,116.0,0.3,0.01,0.28
+96,96,96,cx3c1_human,P49238,355,Chemokine receptors,Class A (Rhodopsin),99,6.0,93.0,0.28,0.02,0.26
+97,97,97,cxcr1_human,P25024,350,Chemokine receptors,Class A (Rhodopsin),113,8.0,108.0,0.32,0.02,0.31
+98,98,98,cxcr2_human,P25025,360,Chemokine receptors,Class A (Rhodopsin),98,4.0,96.0,0.27,0.01,0.27
+99,99,99,cxcr3_human,P49682,368,Chemokine receptors,Class A (Rhodopsin),44,0.0,44.0,0.12,0.0,0.12
+100,100,100,cxcr4_human,P61073,352,Chemokine receptors,Class A (Rhodopsin),63,0.0,63.0,0.18,0.0,0.18
+101,101,101,cxcr5_human,P32302,372,Chemokine receptors,Class A (Rhodopsin),77,2.0,76.0,0.21,0.01,0.2
+102,102,102,cxcr6_human,O00574,342,Chemokine receptors,Class A (Rhodopsin),68,1.0,67.0,0.2,0.0,0.2
+103,103,103,drd1_human,P21728,446,Dopamine receptors,Class A (Rhodopsin),81,1.0,80.0,0.18,0.0,0.18
+104,104,104,drd2_human,P14416,443,Dopamine receptors,Class A (Rhodopsin),88,4.0,85.0,0.2,0.01,0.19
+105,105,105,drd3_human,P35462,400,Dopamine receptors,Class A (Rhodopsin),93,0.0,93.0,0.23,0.0,0.23
+106,106,106,drd4_human,P21917,467,Dopamine receptors,Class A (Rhodopsin),99,9.0,90.0,0.21,0.02,0.19
+107,107,107,drd5_human,P21918,477,Dopamine receptors,Class A (Rhodopsin),183,3.0,181.0,0.38,0.01,0.38
+108,108,108,ednra_human,P25101,427,Endothelin receptors,Class A (Rhodopsin),58,1.0,57.0,0.14,0.0,0.13
+109,109,109,ednrb_human,P24530,442,Endothelin receptors,Class A (Rhodopsin),99,4.0,95.0,0.22,0.01,0.21
+110,110,110,etbr2_human,O60883,481,Class A orphans,Class A (Rhodopsin),146,3.0,144.0,0.3,0.01,0.3
+111,111,111,ffar1_human,O14842,300,Free fatty acid receptors,Class A (Rhodopsin),67,3.0,64.0,0.22,0.01,0.21
+112,112,112,ffar2_human,O15552,330,Free fatty acid receptors,Class A (Rhodopsin),111,4.0,108.0,0.34,0.01,0.33
+113,113,113,ffar3_human,O14843,346,Free fatty acid receptors,Class A (Rhodopsin),20,4.0,16.0,0.06,0.01,0.05
+114,114,114,ffar4_human,Q5NUL3,377,Free fatty acid receptors,Class A (Rhodopsin),102,4.0,100.0,0.27,0.01,0.27
+115,115,115,fpr1_human,P21462,350,Formylpeptide receptors,Class A (Rhodopsin),102,9.0,94.0,0.29,0.03,0.27
+116,116,116,fpr2_human,P25090,351,Formylpeptide receptors,Class A (Rhodopsin),76,1.0,75.0,0.22,0.0,0.21
+117,117,117,fpr3_human,P25089,353,Formylpeptide receptors,Class A (Rhodopsin),95,1.0,94.0,0.27,0.0,0.27
+118,118,118,fshr_human,P23945,695,Glycoprotein hormone receptors,Class A (Rhodopsin),224,2.0,222.0,0.32,0.0,0.32
+119,119,119,fzd10_human,Q9ULW2,581,Frizzled,Class F (Frizzled),98,1.0,97.0,0.17,0.0,0.17
+120,120,120,fzd1_human,Q9UP38,647,Frizzled,Class F (Frizzled),138,5.0,133.0,0.21,0.01,0.21
+121,121,121,fzd2_human,Q14332,565,Frizzled,Class F (Frizzled),99,2.0,98.0,0.18,0.0,0.17
+122,122,122,fzd3_human,Q9NPG1,666,Frizzled,Class F (Frizzled),119,1.0,118.0,0.18,0.0,0.18
+123,123,123,fzd4_human,Q9ULV1,537,Frizzled,Class F (Frizzled),128,2.0,127.0,0.24,0.0,0.24
+124,124,124,fzd5_human,Q13467,585,Frizzled,Class F (Frizzled),99,3.0,96.0,0.17,0.01,0.16
+125,125,125,fzd6_human,O60353,706,Frizzled,Class F (Frizzled),175,8.0,168.0,0.25,0.01,0.24
+126,126,126,fzd7_human,O75084,574,Frizzled,Class F (Frizzled),138,2.0,137.0,0.24,0.0,0.24
+127,127,127,fzd8_human,Q9H461,694,Frizzled,Class F (Frizzled),102,0.0,102.0,0.15,0.0,0.15
+128,128,128,fzd9_human,O00144,591,Frizzled,Class F (Frizzled),144,3.0,142.0,0.24,0.01,0.24
+129,129,129,g137a_human,Q96N19,417,Other GPCR orphans,Other GPCRs,104,3.0,103.0,0.25,0.01,0.25
+130,130,130,gabr1_human,Q9UBS5,961,GABA<sub>B</sub> receptors,Class C (Glutamate),138,4.0,135.0,0.14,0.0,0.14
+131,131,131,gabr2_human,O75899,941,GABA<sub>B</sub> receptors,Class C (Glutamate),133,1.0,132.0,0.14,0.0,0.14
+132,132,132,galr1_human,P47211,349,Galanin receptors,Class A (Rhodopsin),103,6.0,99.0,0.3,0.02,0.28
+133,133,133,galr2_human,O43603,387,Galanin receptors,Class A (Rhodopsin),122,5.0,117.0,0.32,0.01,0.3
+134,134,134,galr3_human,O60755,368,Galanin receptors,Class A (Rhodopsin),89,7.0,82.0,0.24,0.02,0.22
+135,135,135,gasr_human,P32239,447,Cholecystokinin receptors,Class A (Rhodopsin),161,1.0,160.0,0.36,0.0,0.36
+136,136,136,ghrhr_human,Q02643,423,Glucagon receptor family,Class B1 (Secretin),128,5.0,123.0,0.3,0.01,0.29
+137,137,137,ghsr_human,Q92847,366,Ghrelin receptors,Class A (Rhodopsin),102,1.0,101.0,0.28,0.0,0.28
+138,138,138,gipr_human,P48546,466,Glucagon receptor family,Class B1 (Secretin),151,6.0,146.0,0.32,0.01,0.31
+139,139,139,glp1r_human,P43220,463,Glucagon receptor family,Class B1 (Secretin),113,10.0,106.0,0.24,0.02,0.23
+140,140,140,glp2r_human,O95838,553,Glucagon receptor family,Class B1 (Secretin),134,9.0,126.0,0.24,0.02,0.23
+141,141,141,glr_human,P47871,477,Glucagon receptor family,Class B1 (Secretin),63,6.0,57.0,0.13,0.01,0.12
+142,142,142,gnrhr_human,P30968,328,Gonadotrophin-releasing hormone receptors,Class A (Rhodopsin),87,3.0,84.0,0.27,0.01,0.26
+143,143,143,gp101_human,Q96P66,508,Class A orphans,Class A (Rhodopsin),96,6.0,90.0,0.19,0.01,0.18
+144,144,144,gp107_human,Q5VW38,600,Other GPCR orphans,Other GPCRs,131,2.0,130.0,0.22,0.0,0.22
+145,145,145,gp119_human,Q8TDV5,335,"GPR18, GPR55 and GPR119",Class A (Rhodopsin),52,2.0,50.0,0.16,0.01,0.15
+146,146,146,gp126_human,Q86SQ4,1221,G,Class B2 (Adhesion),295,11.0,284.0,0.24,0.01,0.23
+147,147,147,gp132_human,Q9UNW8,380,Class A orphans,Class A (Rhodopsin),108,2.0,107.0,0.28,0.01,0.28
+148,148,148,gp135_human,Q8IZ08,494,Class A orphans,Class A (Rhodopsin),141,5.0,136.0,0.29,0.01,0.28
+149,149,149,gp139_human,Q6DWJ6,353,Class A orphans,Class A (Rhodopsin),89,1.0,89.0,0.25,0.0,0.25
+150,150,150,gp141_human,Q7Z602,305,Class A orphans,Class A (Rhodopsin),99,1.0,98.0,0.32,0.0,0.32
+151,151,151,gp142_human,Q7Z601,462,Class A orphans,Class A (Rhodopsin),153,11.0,144.0,0.33,0.02,0.31
+152,152,152,gp143_human,P51810,404,Other GPCR orphans,Other GPCRs,75,3.0,72.0,0.19,0.01,0.18
+153,153,153,gp146_human,Q96CH1,333,Class A orphans,Class A (Rhodopsin),140,7.0,135.0,0.42,0.02,0.41
+154,154,154,gp148_human,Q8TDV2,347,Class A orphans,Class A (Rhodopsin),102,7.0,97.0,0.29,0.02,0.28
+155,155,155,gp149_human,Q86SP6,731,Class A orphans,Class A (Rhodopsin),227,2.0,225.0,0.31,0.0,0.31
+156,156,156,gp150_human,Q8NGU9,434,Class A orphans,Class A (Rhodopsin),79,7.0,73.0,0.18,0.02,0.17
+157,157,157,gp151_human,Q8TDV0,419,Class A orphans,Class A (Rhodopsin),135,4.0,131.0,0.32,0.01,0.31
+158,158,158,gp152_human,Q8TDT2,470,Class A orphans,Class A (Rhodopsin),150,5.0,145.0,0.32,0.01,0.31
+159,159,159,gp153_human,Q6NV75,609,Class A orphans,Class A (Rhodopsin),134,9.0,125.0,0.22,0.01,0.21
+160,160,160,gp156_human,Q8NFN8,814,Class C Orphans,Class C (Glutamate),197,12.0,187.0,0.24,0.01,0.23
+161,161,161,gp157_human,Q5UAW9,335,Other GPCR orphans,Other GPCRs,108,4.0,105.0,0.32,0.01,0.31
+162,162,162,gp158_human,Q5T848,1215,Class C Orphans,Class C (Glutamate),356,5.0,352.0,0.29,0.0,0.29
+163,163,163,gp160_human,Q9UJ42,338,Class A orphans,Class A (Rhodopsin),84,3.0,81.0,0.25,0.01,0.24
+164,164,164,gp161_human,Q8N6U8,529,Class A orphans,Class A (Rhodopsin),144,0.0,144.0,0.27,0.0,0.27
+165,165,165,gp162_human,Q16538,588,Class A orphans,Class A (Rhodopsin),169,4.0,165.0,0.29,0.01,0.28
+166,166,166,gp171_human,O14626,319,Class A orphans,Class A (Rhodopsin),81,1.0,80.0,0.25,0.0,0.25
+167,167,167,gp173_human,Q9NS66,373,Class A orphans,Class A (Rhodopsin),51,0.0,51.0,0.14,0.0,0.14
+168,168,168,gp174_human,Q9BXC1,333,Class A orphans,Class A (Rhodopsin),54,2.0,53.0,0.16,0.01,0.16
+169,169,169,gp176_human,Q14439,515,Class A orphans,Class A (Rhodopsin),117,0.0,117.0,0.23,0.0,0.23
+170,170,170,gp179_human,Q6PRD1,2367,Class C Orphans,Class C (Glutamate),671,33.0,643.0,0.28,0.01,0.27
+171,171,171,gp182_human,O15218,404,Class A orphans,Class A (Rhodopsin),129,2.0,127.0,0.32,0.0,0.31
+172,172,172,gp183_human,P32249,361,Class A orphans,Class A (Rhodopsin),83,1.0,82.0,0.23,0.0,0.23
+173,173,173,gpbar_human,Q8TDU6,330,Bile acid receptors,Class A (Rhodopsin),119,3.0,116.0,0.36,0.01,0.35
+174,174,174,gpc5b_human,Q9NZH0,403,Class C Orphans,Class C (Glutamate),115,3.0,112.0,0.29,0.01,0.28
+175,175,175,gpc5c_human,Q9NQ84,441,Class C Orphans,Class C (Glutamate),9,0.0,9.0,0.02,0.0,0.02
+176,176,176,gpc5d_human,Q9NZD1,345,Class C Orphans,Class C (Glutamate),102,3.0,99.0,0.3,0.01,0.29
+177,177,177,gpc6a_human,Q5T6X5,926,Calcium-sensing receptors,Class C (Glutamate),276,13.0,263.0,0.3,0.01,0.28
+178,178,178,gper1_human,Q99527,375,Estrogen (G protein-coupled) receptors,Class A (Rhodopsin),124,4.0,121.0,0.33,0.01,0.32
+179,179,179,gpr12_human,P47775,334,Class A orphans,Class A (Rhodopsin),58,1.0,57.0,0.17,0.0,0.17
+180,180,180,gpr15_human,P49685,360,Class A orphans,Class A (Rhodopsin),114,5.0,109.0,0.32,0.01,0.3
+181,181,181,gpr17_human,Q13304,367,Class A orphans,Class A (Rhodopsin),118,4.0,116.0,0.32,0.01,0.32
+182,182,182,gpr18_human,Q14330,331,"GPR18, GPR55 and GPR119",Class A (Rhodopsin),107,2.0,105.0,0.32,0.01,0.32
+183,183,183,gpr19_human,Q15760,415,Class A orphans,Class A (Rhodopsin),92,3.0,89.0,0.22,0.01,0.21
+184,184,184,gpr1_human,P46091,355,Class A orphans,Class A (Rhodopsin),110,4.0,107.0,0.31,0.01,0.3
+185,185,185,gpr20_human,Q99678,358,Class A orphans,Class A (Rhodopsin),127,5.0,122.0,0.35,0.01,0.34
+186,186,186,gpr21_human,Q99679,349,Class A orphans,Class A (Rhodopsin),94,3.0,91.0,0.27,0.01,0.26
+187,187,187,gpr22_human,Q99680,433,Class A orphans,Class A (Rhodopsin),73,0.0,73.0,0.17,0.0,0.17
+188,188,188,gpr25_human,O00155,361,Class A orphans,Class A (Rhodopsin),80,5.0,75.0,0.22,0.01,0.21
+189,189,189,gpr26_human,Q8NDV2,337,Class A orphans,Class A (Rhodopsin),64,0.0,64.0,0.19,0.0,0.19
+190,190,190,gpr27_human,Q9NS67,375,Class A orphans,Class A (Rhodopsin),52,1.0,51.0,0.14,0.0,0.14
+191,191,191,gpr31_human,O00270,319,Class A orphans,Class A (Rhodopsin),114,4.0,110.0,0.36,0.01,0.34
+192,192,192,gpr32_human,O75388,356,Class A orphans,Class A (Rhodopsin),103,2.0,101.0,0.29,0.01,0.28
+193,193,193,gpr33_human,Q49SQ1,333,Class A orphans,Class A (Rhodopsin),25,5.0,20.0,0.08,0.02,0.06
+194,194,194,gpr34_human,Q9UPC5,381,Class A orphans,Class A (Rhodopsin),47,1.0,46.0,0.12,0.0,0.12
+195,195,195,gpr35_human,Q9HC97,309,Class A orphans,Class A (Rhodopsin),110,10.0,101.0,0.36,0.03,0.33
+196,196,196,gpr37_human,O15354,613,Class A orphans,Class A (Rhodopsin),171,4.0,167.0,0.28,0.01,0.27
+197,197,197,gpr39_human,O43194,453,Class A orphans,Class A (Rhodopsin),154,4.0,150.0,0.34,0.01,0.33
+198,198,198,gpr3_human,P46089,330,Class A orphans,Class A (Rhodopsin),81,2.0,80.0,0.25,0.01,0.24
+199,199,199,gpr42_human,O15529,346,Free fatty acid receptors,Class A (Rhodopsin),15,4.0,11.0,0.04,0.01,0.03
+200,200,200,gpr45_human,Q9Y5Y3,372,Class A orphans,Class A (Rhodopsin),104,1.0,103.0,0.28,0.0,0.28
+201,201,201,gpr4_human,P46093,362,Class A orphans,Class A (Rhodopsin),75,0.0,75.0,0.21,0.0,0.21
+202,202,202,gpr52_human,Q9Y2T5,361,Class A orphans,Class A (Rhodopsin),86,1.0,85.0,0.24,0.0,0.24
+203,203,203,gpr55_human,Q9Y2T6,319,"GPR18, GPR55 and GPR119",Class A (Rhodopsin),87,3.0,84.0,0.27,0.01,0.26
+204,204,204,gpr61_human,Q9BZJ8,451,Class A orphans,Class A (Rhodopsin),90,0.0,90.0,0.2,0.0,0.2
+205,205,205,gpr62_human,Q9BZJ7,368,Class A orphans,Class A (Rhodopsin),56,6.0,51.0,0.15,0.02,0.14
+206,206,206,gpr63_human,Q9BZJ6,419,Class A orphans,Class A (Rhodopsin),120,3.0,117.0,0.29,0.01,0.28
+207,207,207,gpr6_human,P46095,362,Class A orphans,Class A (Rhodopsin),92,3.0,89.0,0.25,0.01,0.25
+208,208,208,gpr75_human,O95800,540,Class A orphans,Class A (Rhodopsin),152,5.0,149.0,0.28,0.01,0.28
+209,209,209,gpr78_human,Q96P69,363,Class A orphans,Class A (Rhodopsin),166,6.0,161.0,0.46,0.02,0.44
+210,210,210,gpr82_human,Q96P67,336,Class A orphans,Class A (Rhodopsin),56,2.0,55.0,0.17,0.01,0.16
+211,211,211,gpr83_human,Q9NYM4,423,Class A orphans,Class A (Rhodopsin),153,4.0,149.0,0.36,0.01,0.35
+212,212,212,gpr84_human,Q9NQS5,396,Class A orphans,Class A (Rhodopsin),117,6.0,112.0,0.3,0.02,0.28
+213,213,213,gpr85_human,P60893,370,Class A orphans,Class A (Rhodopsin),62,0.0,62.0,0.17,0.0,0.17
+214,214,214,gpr87_human,Q9BY21,358,Class A orphans,Class A (Rhodopsin),117,2.0,115.0,0.33,0.01,0.32
+215,215,215,gpr88_human,Q9GZN0,384,Class A orphans,Class A (Rhodopsin),37,1.0,36.0,0.1,0.0,0.09
+216,216,216,gpr98_human,Q8WXG9,6306,V,Class B2 (Adhesion),1774,81.0,1698.0,0.28,0.01,0.27
+217,217,217,grm1_human,Q13255,1194,Metabotropic glutamate receptors,Class C (Glutamate),235,7.0,228.0,0.2,0.01,0.19
+218,218,218,grm2_human,Q14416,872,Metabotropic glutamate receptors,Class C (Glutamate),221,7.0,216.0,0.25,0.01,0.25
+219,219,219,grm3_human,Q14832,879,Metabotropic glutamate receptors,Class C (Glutamate),177,1.0,177.0,0.2,0.0,0.2
+220,220,220,grm4_human,Q14833,912,Metabotropic glutamate receptors,Class C (Glutamate),238,1.0,238.0,0.26,0.0,0.26
+221,221,221,grm5_human,P41594,1212,Metabotropic glutamate receptors,Class C (Glutamate),211,2.0,209.0,0.17,0.0,0.17
+222,222,222,grm6_human,O15303,877,Metabotropic glutamate receptors,Class C (Glutamate),273,12.0,263.0,0.31,0.01,0.3
+223,223,223,grm7_human,Q14831,915,Metabotropic glutamate receptors,Class C (Glutamate),210,1.0,209.0,0.23,0.0,0.23
+224,224,224,grm8_human,O00222,908,Metabotropic glutamate receptors,Class C (Glutamate),261,5.0,257.0,0.29,0.01,0.28
+225,225,225,grpr_human,P30550,384,Bombesin receptors,Class A (Rhodopsin),68,1.0,67.0,0.18,0.0,0.17
+226,226,226,hcar1_human,Q9BXC0,346,Hydroxycarboxylic acid receptors,Class A (Rhodopsin),120,3.0,117.0,0.35,0.01,0.34
+227,227,227,hcar2_human,Q8TDS4,363,Hydroxycarboxylic acid receptors,Class A (Rhodopsin),63,1.0,62.0,0.17,0.0,0.17
+228,228,228,hcar3_human,P49019,387,Hydroxycarboxylic acid receptors,Class A (Rhodopsin),76,6.0,71.0,0.2,0.02,0.18
+229,229,229,hrh1_human,P35367,487,Histamine receptors,Class A (Rhodopsin),128,5.0,126.0,0.26,0.01,0.26
+230,230,230,hrh2_human,P25021,359,Histamine receptors,Class A (Rhodopsin),63,1.0,62.0,0.18,0.0,0.17
+231,231,231,hrh3_human,Q9Y5N1,445,Histamine receptors,Class A (Rhodopsin),97,0.0,97.0,0.22,0.0,0.22
+232,232,232,hrh4_human,Q9H3N8,390,Histamine receptors,Class A (Rhodopsin),104,4.0,101.0,0.27,0.01,0.26
+233,233,233,kissr_human,Q969F8,398,Kisspeptin receptors,Class A (Rhodopsin),70,2.0,68.0,0.18,0.01,0.17
+234,234,234,lgr4_human,Q9BXB1,951,Class A orphans,Class A (Rhodopsin),213,8.0,206.0,0.22,0.01,0.22
+235,235,235,lgr5_human,O75473,907,Class A orphans,Class A (Rhodopsin),274,10.0,264.0,0.3,0.01,0.29
+236,236,236,lgr6_human,Q9HBX8,967,Class A orphans,Class A (Rhodopsin),279,13.0,267.0,0.29,0.01,0.28
+237,237,237,lpar1_human,Q92633,364,Lysophospholipid (LPA) receptors,Class A (Rhodopsin),67,1.0,66.0,0.18,0.0,0.18
+238,238,238,lpar2_human,Q9HBW0,351,Lysophospholipid (LPA) receptors,Class A (Rhodopsin),93,1.0,92.0,0.26,0.0,0.26
+239,239,239,lpar3_human,Q9UBY5,353,Lysophospholipid (LPA) receptors,Class A (Rhodopsin),106,2.0,104.0,0.3,0.01,0.29
+240,240,240,lpar4_human,Q99677,370,Lysophospholipid (LPA) receptors,Class A (Rhodopsin),56,2.0,54.0,0.15,0.01,0.15
+241,241,241,lpar5_human,Q9H1C0,372,Lysophospholipid (LPA) receptors,Class A (Rhodopsin),101,1.0,100.0,0.27,0.0,0.27
+242,242,242,lpar6_human,P43657,344,Lysophospholipid (LPA) receptors,Class A (Rhodopsin),97,1.0,96.0,0.28,0.0,0.28
+243,243,243,lshr_human,P22888,699,Glycoprotein hormone receptors,Class A (Rhodopsin),181,6.0,176.0,0.26,0.01,0.25
+244,244,244,lt4r1_human,Q15722,352,Leukotriene receptors,Class A (Rhodopsin),88,4.0,84.0,0.25,0.01,0.24
+245,245,245,lt4r2_human,Q9NPC1,389,Leukotriene receptors,Class A (Rhodopsin),121,10.0,112.0,0.31,0.03,0.29
+246,246,246,mas1l_human,P35410,378,Class A orphans,Class A (Rhodopsin),120,10.0,111.0,0.32,0.03,0.29
+247,247,247,mas_human,P04201,325,Class A orphans,Class A (Rhodopsin),106,2.0,104.0,0.33,0.01,0.32
+248,248,248,mc3r_human,P41968,323,Melanocortin receptors,Class A (Rhodopsin),114,2.0,112.0,0.35,0.01,0.35
+249,249,249,mc4r_human,P32245,332,Melanocortin receptors,Class A (Rhodopsin),124,3.0,121.0,0.37,0.01,0.36
+250,250,250,mc5r_human,P33032,325,Melanocortin receptors,Class A (Rhodopsin),105,3.0,102.0,0.32,0.01,0.31
+251,251,251,mchr1_human,Q99705,422,Melanin-concentrating hormone,Class A (Rhodopsin),159,6.0,154.0,0.38,0.01,0.36
+252,252,252,mchr2_human,Q969V1,340,Melanin-concentrating hormone,Class A (Rhodopsin),96,2.0,94.0,0.28,0.01,0.28
+253,253,253,mrgrd_human,Q8TDS7,321,Class A orphans,Class A (Rhodopsin),100,4.0,97.0,0.31,0.01,0.3
+254,254,254,mrgre_human,Q86SM8,312,Class A orphans,Class A (Rhodopsin),100,9.0,91.0,0.32,0.03,0.29
+255,255,255,mrgrf_human,Q96AM1,343,Class A orphans,Class A (Rhodopsin),79,5.0,74.0,0.23,0.01,0.22
+256,256,256,mrgrg_human,Q86SM5,289,Class A orphans,Class A (Rhodopsin),32,11.0,22.0,0.11,0.04,0.08
+257,257,257,mrgx1_human,Q96LB2,322,Class A orphans,Class A (Rhodopsin),124,7.0,120.0,0.39,0.02,0.37
+258,258,258,mrgx2_human,Q96LB1,330,Class A orphans,Class A (Rhodopsin),107,7.0,100.0,0.32,0.02,0.3
+259,259,259,mrgx3_human,Q96LB0,322,Class A orphans,Class A (Rhodopsin),125,7.0,119.0,0.39,0.02,0.37
+260,260,260,mrgx4_human,Q96LA9,322,Class A orphans,Class A (Rhodopsin),122,11.0,111.0,0.38,0.03,0.34
+261,261,261,mshr_human,Q01726,317,Melanocortin receptors,Class A (Rhodopsin),158,12.0,147.0,0.5,0.04,0.46
+262,262,262,mtlr_human,O43193,412,Motilin receptors,Class A (Rhodopsin),95,1.0,94.0,0.23,0.0,0.23
+263,263,263,mtr1a_human,P48039,350,Melatonin,Class A (Rhodopsin),112,8.0,104.0,0.32,0.02,0.3
+264,264,264,mtr1b_human,P49286,362,Melatonin,Class A (Rhodopsin),113,5.0,110.0,0.31,0.01,0.3
+265,265,265,mtr1l_human,Q13585,617,Class A orphans,Class A (Rhodopsin),142,4.0,138.0,0.23,0.01,0.22
+266,266,266,nk1r_human,P25103,407,Tachykinin receptors,Class A (Rhodopsin),112,0.0,112.0,0.28,0.0,0.28
+267,267,267,nk2r_human,P21452,398,Tachykinin receptors,Class A (Rhodopsin),123,13.0,111.0,0.31,0.03,0.28
+268,268,268,nk3r_human,P29371,465,Tachykinin receptors,Class A (Rhodopsin),131,3.0,129.0,0.28,0.01,0.28
+269,269,269,nmbr_human,P28336,390,Bombesin receptors,Class A (Rhodopsin),148,6.0,144.0,0.38,0.02,0.37
+270,270,270,nmur1_human,Q9HB89,426,Neuromedin U receptors,Class A (Rhodopsin),152,4.0,149.0,0.36,0.01,0.35
+271,271,271,nmur2_human,Q9GZQ4,415,Neuromedin U receptors,Class A (Rhodopsin),135,8.0,129.0,0.33,0.02,0.31
+272,272,272,npbw1_human,P48145,328,Neuropeptide W/neuropeptide B receptors,Class A (Rhodopsin),116,3.0,113.0,0.35,0.01,0.34
+273,273,273,npbw2_human,P48146,333,Neuropeptide W/neuropeptide B receptors,Class A (Rhodopsin),123,4.0,119.0,0.37,0.01,0.36
+274,274,274,npff1_human,Q9GZQ6,430,Neuropeptide FF/neuropeptide AF receptors,Class A (Rhodopsin),92,9.0,84.0,0.21,0.02,0.2
+275,275,275,npff2_human,Q9Y5X5,522,Neuropeptide FF/neuropeptide AF receptors,Class A (Rhodopsin),188,5.0,185.0,0.36,0.01,0.35
+276,276,276,npsr1_human,Q6W5P4,371,Neuropeptide S receptors,Class A (Rhodopsin),132,7.0,127.0,0.36,0.02,0.34
+277,277,277,npy1r_human,P25929,384,Neuropeptide Y receptors,Class A (Rhodopsin),62,1.0,61.0,0.16,0.0,0.16
+278,278,278,npy2r_human,P49146,381,Neuropeptide Y receptors,Class A (Rhodopsin),93,1.0,92.0,0.24,0.0,0.24
+279,279,279,npy4r_human,P50391,375,Neuropeptide Y receptors,Class A (Rhodopsin),160,8.0,154.0,0.43,0.02,0.41
+280,280,280,npy5r_human,Q15761,445,Neuropeptide Y receptors,Class A (Rhodopsin),98,0.0,98.0,0.22,0.0,0.22
+281,281,281,ntr1_human,P30989,418,Neurotensin receptors,Class A (Rhodopsin),165,11.0,155.0,0.39,0.03,0.37
+282,282,282,ntr2_human,O95665,410,Neurotensin receptors,Class A (Rhodopsin),110,3.0,107.0,0.27,0.01,0.26
+283,283,283,ogr1_human,Q15743,365,Class A orphans,Class A (Rhodopsin),70,2.0,68.0,0.19,0.01,0.19
+284,284,284,opn3_human,Q9H1Y3,402,Opsins,Class A (Rhodopsin),107,5.0,102.0,0.27,0.01,0.25
+285,285,285,opn4_human,Q9UHM6,478,Opsins,Class A (Rhodopsin),173,6.0,169.0,0.36,0.01,0.35
+286,286,286,opn5_human,Q6U736,354,Opsins,Class A (Rhodopsin),71,1.0,70.0,0.2,0.0,0.2
+287,287,287,oprd_human,P41143,372,Opioid receptors,Class A (Rhodopsin),89,3.0,86.0,0.24,0.01,0.23
+288,288,288,oprk_human,P41145,380,Opioid receptors,Class A (Rhodopsin),114,1.0,114.0,0.3,0.0,0.3
+289,289,289,oprm_human,P35372,400,Opioid receptors,Class A (Rhodopsin),147,6.0,142.0,0.37,0.01,0.35
+290,290,290,oprx_human,P41146,370,Opioid receptors,Class A (Rhodopsin),109,5.0,106.0,0.29,0.01,0.29
+291,291,291,opsb_human,P03999,348,Opsins,Class A (Rhodopsin),103,2.0,101.0,0.3,0.01,0.29
+292,292,292,opsd_human,P08100,348,Opsins,Class A (Rhodopsin),119,1.0,118.0,0.34,0.0,0.34
+293,293,293,opsg_human,P04001,364,Opsins,Class A (Rhodopsin),1,1.0,0.0,0.0,0.0,0.0
+294,294,294,opsr_human,P04000,364,Opsins,Class A (Rhodopsin),48,8.0,41.0,0.13,0.02,0.11
+295,295,295,ox1r_human,O43613,425,Orexin receptors,Class A (Rhodopsin),122,5.0,118.0,0.29,0.01,0.28
+296,296,296,ox2r_human,O43614,444,Orexin receptors,Class A (Rhodopsin),114,6.0,108.0,0.26,0.01,0.24
+297,297,297,oxer1_human,Q8TDS5,423,Leukotriene receptors,Class A (Rhodopsin),159,9.0,151.0,0.38,0.02,0.36
+298,298,298,oxgr1_human,Q96P68,337,Oxoglutarate receptors,Class A (Rhodopsin),100,0.0,100.0,0.3,0.0,0.3
+299,299,299,oxyr_human,P30559,389,Vasopressin and oxytocin receptors,Class A (Rhodopsin),112,5.0,107.0,0.29,0.01,0.28
+300,300,300,p2ry1_human,P47900,373,P2Y receptors,Class A (Rhodopsin),86,1.0,85.0,0.23,0.0,0.23
+301,301,301,p2ry2_human,P41231,377,P2Y receptors,Class A (Rhodopsin),135,7.0,129.0,0.36,0.02,0.34
+302,302,302,p2ry4_human,P51582,365,P2Y receptors,Class A (Rhodopsin),87,7.0,80.0,0.24,0.02,0.22
+303,303,303,p2ry6_human,Q15077,328,P2Y receptors,Class A (Rhodopsin),99,2.0,98.0,0.3,0.01,0.3
+304,304,304,p2ry8_human,Q86VZ1,359,Class A orphans,Class A (Rhodopsin),89,1.0,88.0,0.25,0.0,0.25
+305,305,305,p2y10_human,O00398,339,Class A orphans,Class A (Rhodopsin),49,1.0,48.0,0.14,0.0,0.14
+306,306,306,p2y11_human,Q96G91,374,P2Y receptors,Class A (Rhodopsin),184,6.0,178.0,0.49,0.02,0.48
+307,307,307,p2y12_human,Q9H244,342,P2Y receptors,Class A (Rhodopsin),81,2.0,79.0,0.24,0.01,0.23
+308,308,308,p2y13_human,Q9BPV8,354,P2Y receptors,Class A (Rhodopsin),98,3.0,95.0,0.28,0.01,0.27
+309,309,309,p2y14_human,Q15391,338,P2Y receptors,Class A (Rhodopsin),99,3.0,96.0,0.29,0.01,0.28
+310,310,310,pacr_human,P41586,468,VIP and PACAP receptors,Class B1 (Secretin),110,1.0,109.0,0.24,0.0,0.23
+311,311,311,par1_human,P25116,425,Proteinase-activated receptors,Class A (Rhodopsin),102,1.0,101.0,0.24,0.0,0.24
+312,312,312,par2_human,P55085,397,Proteinase-activated receptors,Class A (Rhodopsin),98,3.0,96.0,0.25,0.01,0.24
+313,313,313,par3_human,O00254,374,Proteinase-activated receptors,Class A (Rhodopsin),106,4.0,105.0,0.28,0.01,0.28
+314,314,314,par4_human,Q96RI0,385,Proteinase-activated receptors,Class A (Rhodopsin),121,4.0,118.0,0.31,0.01,0.31
+315,315,315,pd2r2_human,Q9Y5Y4,395,Prostanoid receptors,Class A (Rhodopsin),63,1.0,62.0,0.16,0.0,0.16
+316,316,316,pd2r_human,Q13258,359,Prostanoid receptors,Class A (Rhodopsin),124,4.0,121.0,0.35,0.01,0.34
+317,317,317,pe2r1_human,P34995,402,Prostanoid receptors,Class A (Rhodopsin),56,1.0,55.0,0.14,0.0,0.14
+318,318,318,pe2r2_human,P43116,358,Prostanoid receptors,Class A (Rhodopsin),92,2.0,90.0,0.26,0.01,0.25
+319,319,319,pe2r3_human,P43115,390,Prostanoid receptors,Class A (Rhodopsin),89,2.0,87.0,0.23,0.01,0.22
+320,320,320,pe2r4_human,P35408,488,Prostanoid receptors,Class A (Rhodopsin),103,2.0,101.0,0.21,0.0,0.21
+321,321,321,pf2r_human,P43088,359,Prostanoid receptors,Class A (Rhodopsin),88,4.0,84.0,0.25,0.01,0.23
+322,322,322,pi2r_human,P43119,386,Prostanoid receptors,Class A (Rhodopsin),110,8.0,103.0,0.28,0.02,0.27
+323,323,323,pkr1_human,Q8TCW9,393,Prokineticin receptors,Class A (Rhodopsin),133,3.0,130.0,0.34,0.01,0.33
+324,324,324,pkr2_human,Q8NFJ6,384,Prokineticin receptors,Class A (Rhodopsin),136,5.0,133.0,0.35,0.01,0.35
+325,325,325,prlhr_human,P49683,370,Prolactin-releasing peptide receptors,Class A (Rhodopsin),114,4.0,111.0,0.31,0.01,0.3
+326,326,326,psyr_human,Q8IYL9,337,Class A orphans,Class A (Rhodopsin),87,2.0,86.0,0.26,0.01,0.26
+327,327,327,ptafr_human,P25105,342,Platelet-activating factor receptors,Class A (Rhodopsin),87,4.0,83.0,0.25,0.01,0.24
+328,328,328,pth1r_human,Q03431,593,Parathyroid hormone receptors,Class B1 (Secretin),160,3.0,157.0,0.27,0.01,0.26
+329,329,329,pth2r_human,P49190,550,Parathyroid hormone receptors,Class B1 (Secretin),182,4.0,178.0,0.33,0.01,0.32
+330,330,330,qrfpr_human,Q96P65,431,Peptide P518 receptors,Class A (Rhodopsin),127,10.0,120.0,0.29,0.02,0.28
+331,331,331,rai3_human,Q8NFJ5,357,Class C Orphans,Class C (Glutamate),136,5.0,131.0,0.38,0.01,0.37
+332,332,332,rl3r1_human,Q9NSD7,469,Relaxin family peptide receptors,Class A (Rhodopsin),149,1.0,148.0,0.32,0.0,0.32
+333,333,333,rl3r2_human,Q8TDU9,374,Relaxin family peptide receptors,Class A (Rhodopsin),118,5.0,113.0,0.32,0.01,0.3
+334,334,334,rxfp1_human,Q9HBX9,757,Relaxin family peptide receptors,Class A (Rhodopsin),192,1.0,191.0,0.25,0.0,0.25
+335,335,335,rxfp2_human,Q8WXD0,754,Relaxin family peptide receptors,Class A (Rhodopsin),193,6.0,187.0,0.26,0.01,0.25
+336,336,336,s1pr1_human,P21453,382,Lysophospholipid (S1P) receptors,Class A (Rhodopsin),59,3.0,56.0,0.15,0.01,0.15
+337,337,337,s1pr2_human,O95136,353,Lysophospholipid (S1P) receptors,Class A (Rhodopsin),105,2.0,103.0,0.3,0.01,0.29
+338,338,338,s1pr3_human,Q99500,378,Lysophospholipid (S1P) receptors,Class A (Rhodopsin),104,4.0,101.0,0.28,0.01,0.27
+339,339,339,s1pr4_human,O95977,384,Lysophospholipid (S1P) receptors,Class A (Rhodopsin),125,6.0,121.0,0.33,0.02,0.32
+340,340,340,s1pr5_human,Q9H228,398,Lysophospholipid (S1P) receptors,Class A (Rhodopsin),101,4.0,98.0,0.25,0.01,0.25
+341,341,341,sctr_human,P47872,440,Glucagon receptor family,Class B1 (Secretin),142,6.0,138.0,0.32,0.01,0.31
+342,342,342,smo_human,Q99835,787,Frizzled,Class F (Frizzled),171,7.0,166.0,0.22,0.01,0.21
+343,343,343,ssr1_human,P30872,391,Somatostatin receptors,Class A (Rhodopsin),105,1.0,104.0,0.27,0.0,0.27
+344,344,344,ssr2_human,P30874,369,Somatostatin receptors,Class A (Rhodopsin),89,0.0,89.0,0.24,0.0,0.24
+345,345,345,ssr3_human,P32745,418,Somatostatin receptors,Class A (Rhodopsin),140,6.0,135.0,0.33,0.01,0.32
+346,346,346,ssr4_human,P31391,388,Somatostatin receptors,Class A (Rhodopsin),130,4.0,126.0,0.34,0.01,0.32
+347,347,347,ssr5_human,P35346,364,Somatostatin receptors,Class A (Rhodopsin),149,11.0,138.0,0.41,0.03,0.38
+348,348,348,sucr1_human,Q9BXA5,334,Succinate receptors,Class A (Rhodopsin),94,0.0,94.0,0.28,0.0,0.28
+349,349,349,t2r10_human,Q9NYW0,307,Taste 2 receptors,Taste 2,105,3.0,102.0,0.34,0.01,0.33
+350,350,350,t2r13_human,Q9NYV9,303,Taste 2 receptors,Taste 2,94,2.0,93.0,0.31,0.01,0.31
+351,351,351,t2r14_human,Q9NYV8,317,Taste 2 receptors,Taste 2,101,5.0,97.0,0.32,0.02,0.31
+352,352,352,t2r16_human,Q9NYV7,291,Taste 2 receptors,Taste 2,88,3.0,85.0,0.3,0.01,0.29
+353,353,353,t2r19_human,P59542,299,Taste 2 receptors,Taste 2,99,9.0,92.0,0.33,0.03,0.31
+354,354,354,t2r20_human,P59543,309,Taste 2 receptors,Taste 2,100,10.0,92.0,0.32,0.03,0.3
+355,355,355,t2r30_human,P59541,319,Taste 2 receptors,Taste 2,107,6.0,102.0,0.34,0.02,0.32
+356,356,356,t2r31_human,P59538,309,Taste 2 receptors,Taste 2,96,12.0,85.0,0.31,0.04,0.28
+357,357,357,t2r38_human,P59533,333,Taste 2 receptors,Taste 2,81,5.0,78.0,0.24,0.02,0.23
+358,358,358,t2r39_human,P59534,338,Taste 2 receptors,Taste 2,110,4.0,106.0,0.33,0.01,0.31
+359,359,359,t2r40_human,P59535,323,Taste 2 receptors,Taste 2,79,2.0,77.0,0.24,0.01,0.24
+360,360,360,t2r41_human,P59536,307,Taste 2 receptors,Taste 2,92,3.0,90.0,0.3,0.01,0.29
+361,361,361,t2r42_human,Q7RTR8,314,Taste 2 receptors,Taste 2,90,7.0,83.0,0.29,0.02,0.26
+362,362,362,t2r43_human,P59537,309,Taste 2 receptors,Taste 2,101,42.0,62.0,0.33,0.14,0.2
+363,363,363,t2r46_human,P59540,309,Taste 2 receptors,Taste 2,109,6.0,105.0,0.35,0.02,0.34
+364,364,364,t2r50_human,P59544,299,Taste 2 receptors,Taste 2,100,5.0,95.0,0.33,0.02,0.32
+365,365,365,t2r60_human,P59551,318,Taste 2 receptors,Taste 2,81,2.0,79.0,0.25,0.01,0.25
+366,366,366,ta2r1_human,Q9NYW7,299,Taste 2 receptors,Taste 2,97,3.0,95.0,0.32,0.01,0.32
+367,367,367,ta2r3_human,Q9NYW6,316,Taste 2 receptors,Taste 2,99,1.0,98.0,0.31,0.0,0.31
+368,368,368,ta2r4_human,Q9NYW5,299,Taste 2 receptors,Taste 2,86,9.0,79.0,0.29,0.03,0.26
+369,369,369,ta2r5_human,Q9NYW4,299,Taste 2 receptors,Taste 2,98,8.0,91.0,0.33,0.03,0.3
+370,370,370,ta2r7_human,Q9NYW3,318,Taste 2 receptors,Taste 2,113,6.0,108.0,0.36,0.02,0.34
+371,371,371,ta2r8_human,Q9NYW2,309,Taste 2 receptors,Taste 2,117,5.0,112.0,0.38,0.02,0.36
+372,372,372,ta2r9_human,Q9NYW1,312,Taste 2 receptors,Taste 2,105,6.0,99.0,0.34,0.02,0.32
+373,373,373,ta2r_human,P21731,343,Prostanoid receptors,Class A (Rhodopsin),78,2.0,77.0,0.23,0.01,0.22
+374,374,374,taar1_human,Q96RJ0,339,Trace amine receptors,Class A (Rhodopsin),108,3.0,108.0,0.32,0.01,0.32
+375,375,375,taar2_human,Q9P1P5,351,Class A orphans,Class A (Rhodopsin),113,2.0,111.0,0.32,0.01,0.32
+376,376,376,taar5_human,O14804,337,Class A orphans,Class A (Rhodopsin),118,6.0,113.0,0.35,0.02,0.34
+377,377,377,taar6_human,Q96RI8,345,Class A orphans,Class A (Rhodopsin),140,13.0,129.0,0.41,0.04,0.37
+378,378,378,taar8_human,Q969N4,342,Class A orphans,Class A (Rhodopsin),103,3.0,100.0,0.3,0.01,0.29
+379,379,379,taar9_human,Q96RI9,348,Class A orphans,Class A (Rhodopsin),110,6.0,105.0,0.32,0.02,0.3
+380,380,380,tpra1_human,Q86W33,373,Other GPCR orphans,Other GPCRs,104,3.0,101.0,0.28,0.01,0.27
+381,381,381,trfr_human,P34981,398,Thyrotropin-releasing hormone receptors,Class A (Rhodopsin),89,1.0,88.0,0.22,0.0,0.22
+382,382,382,ts1r1_human,Q7RTX1,841,Taste 1 receptors,Class C (Glutamate),261,20.0,244.0,0.31,0.02,0.29
+383,383,383,ts1r2_human,Q8TE23,839,Taste 1 receptors,Class C (Glutamate),289,13.0,280.0,0.34,0.02,0.33
+384,384,384,ts1r3_human,Q7RTX0,852,Taste 1 receptors,Class C (Glutamate),389,9.0,382.0,0.46,0.01,0.45
+385,385,385,tshr_human,P16473,764,Glycoprotein hormone receptors,Class A (Rhodopsin),219,4.0,215.0,0.29,0.01,0.28
+386,386,386,ur2r_human,Q9UKP6,389,Urotensin receptors,Class A (Rhodopsin),116,5.0,111.0,0.3,0.01,0.29
+387,387,387,v1ar_human,P37288,418,Vasopressin and oxytocin receptors,Class A (Rhodopsin),118,3.0,115.0,0.28,0.01,0.28
+388,388,388,v1br_human,P47901,424,Vasopressin and oxytocin receptors,Class A (Rhodopsin),152,5.0,149.0,0.36,0.01,0.35
+389,389,389,v2r_human,P30518,371,Vasopressin and oxytocin receptors,Class A (Rhodopsin),73,6.0,67.0,0.2,0.02,0.18
+390,390,390,vipr1_human,P32241,457,VIP and PACAP receptors,Class B1 (Secretin),124,5.0,120.0,0.27,0.01,0.26
+391,391,391,vipr2_human,P41587,438,VIP and PACAP receptors,Class B1 (Secretin),135,3.0,132.0,0.31,0.01,0.3
+392,392,392,xcr1_human,P46094,333,Chemokine receptors,Class A (Rhodopsin),89,1.0,88.0,0.27,0.0,0.26

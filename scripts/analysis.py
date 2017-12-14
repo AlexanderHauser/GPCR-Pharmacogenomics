@@ -726,7 +726,7 @@ def drugs_MVs():
 
     exac_GPCR = pd.read_csv("../data/exac_GPCRs.csv")
 
-    lof = pd.read_csv("../data/SNP_LoF_ExAC_ENSG.csv")
+    lof = pd.read_csv("../data/SNP_LoF_ExAC.csv")
     lof['ac_het'] = lof['Allele Count']-lof['Number of Homozygotes']
     lof_target = pd.DataFrame({'LoF_positions' : lof.groupby( ['EntryName'] ).size(),
             'ac_hom' : lof.groupby( ['EntryName'] )['Number of Homozygotes'].sum(),
